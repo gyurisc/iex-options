@@ -75,4 +75,3 @@ for sym in symbols:
         print('Alternative puts to write:')
         print(sorted_puts.head())
 
-    break
